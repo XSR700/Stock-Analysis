@@ -16,7 +16,7 @@ The two tables below display all green energy stock performances that Steve cons
 
 The stock "DQ" that Steve's parents considered buying grew in value in 2017. In fact, "DQ" showed the biggest return of 199% in 2017 among the others. At the end of 2018, "DQ" fell in value by 62% which gives it a total growth of 137% over two years. However stock tickers "RUN" and "ENPH" grew in value throughout 2017 and 2018. the ticker "RUN" grew 5.5% in 2017 and 84% in 2018 giving a total of 89.5% over two years. the ticker "ENPH" grew 129.5% in 2017 and 82% in 2018 which gives a total of 211.5% over two years. We can conclude that based on our data and analysis that stocks "RUN" and "ENPH" are probably safer investments than "DQ". "ENPH" should hold the majority of the investment because it stayed profitable throughout 2018 and almost doubled in value over two years. 
 
-Each script was written with a timer that recorded the total run time. After running the original script for the years 2017 and 2018, we see that the total run time was approximately the same with a difference of roughly 0.01 seconds. This should be expected since the number of rows for the years 2017 and 2018 are the same. 
+The results of the original Macro script matched the refactored script exactly. Each script was written with a timer that recorded the total run time. After running the original script for the years 2017 and 2018, we see that the total run time was approximately the same with a difference of roughly 0.01 seconds. This should be expected since the number of rows for the years 2017 and 2018 are the same. 
 
 ![Original_Script_Run_Time_For_2017](https://github.com/XSR700/Stock-Analysis/blob/main/Resources/Original%202017%20Time.PNG)
 
